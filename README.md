@@ -18,8 +18,8 @@ bash
 Copy
 Edit
 # Clone the repository
-git clone https://github.com/username/repo-name.git
-cd repo-name
+git clone https://github.com/nav380/scrapy.git
+cd scrapy
 
 # Create virtual environment
 python -m venv venv
